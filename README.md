@@ -4,7 +4,6 @@
 
 ### 🏠 [템플릿 페이지](http://localhost:3000)
 ### 🗺 [Github 소스](https://github.com/neordinary/neordinary-template-react-ts-web)
-
 ## Prerequisites
 ***
 - npm = 8.19.2
